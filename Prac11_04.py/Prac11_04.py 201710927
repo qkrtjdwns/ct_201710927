@@ -1,0 +1,3 @@
+from PIL import Image
+m = Image.open("C:\\Users\\User\\Downloads\\italy-1587287.jpg")
+m.save("C:\\Users\\User\\Downloads\\italy-1587287.gif")
